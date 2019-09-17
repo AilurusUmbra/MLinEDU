@@ -14,3 +14,12 @@
     * 迴圈
     * 函式
     * HTTP request
+
+## Open Dataset
+* [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets.php)
+    * 資料偏舊(?)
+* [Kaggle](https://www.kaggle.com/datasets)
+    * Kaggle 提供線上開發環境 (jupyter notebook)、資料集上傳、資料科學競賽、課程開設等等功能。
+    * 須註冊帳號才能下載資料集
+* [政府資料開放平台](https://data.gov.tw)
+* [google dataset search](https://toolbox.google.com/datasetsearch))
